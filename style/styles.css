@@ -64,8 +64,6 @@ button {
 
 
 .footer {
-    display: grid;
-    position: relative;
     text-align: center; 
     margin-top: 40%;     
     margin-left: -23%;
